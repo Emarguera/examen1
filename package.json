@@ -14,12 +14,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/BlueDevs/Aplicacion.git"
+    "url": "git+https://github.com/Emarguera/examen1.git"
   },
   "author": "loa",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/BlueDevs/Aplicacion/issues"
+    "url": "https://github.com/Emarguera/examen1/issues"
   },
-  "homepage": "https://github.com/BlueDevs/Aplicacion#readme"
+  "homepage": "https://github.com/Emarguera/examen1#readme"
 }

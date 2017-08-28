@@ -47,5 +47,5 @@ gulp.task('watch', function () {
   ], ['html']);
 })
 
-gulp.task('serve', ['connect','css','html','js','watch'])
+gulp.task('ermExamen1', ['connect','css','html','js','watch'])
 // npm install -g gulp gulp-cli nodemon
