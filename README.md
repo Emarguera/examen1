@@ -4,5 +4,5 @@ Exámen #1 - Proyecto Web #1
 Ejecutar:
 
 bower install
-
-gulp serve
+npm install gulp
+gulp ermExamen1
